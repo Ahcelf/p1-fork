@@ -24,8 +24,8 @@ git checkout main
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-#MEMORIA DE LA PRACTICA
-
+# ** MEMORIA DE LA PRACTICA **
+ 
 En primer lugar se crea un repositorio tras un fork de la práctica 1
 Después se abre un Codespace y se ejecutan los comandos indicados para
 ver su funcionalidad.
